@@ -1,8 +1,8 @@
-#![Python idle Icons - Download 37 free Icons PNG, SVG, ICO or ICNS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL-achKtUfW6qcEnqboZaa0kCC_18KSIHkGg&usqp=CAU) Curso em Vídeo - Python 3  
+![Python idle Icons - Download 37 free Icons PNG, SVG, ICO or ICNS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL-achKtUfW6qcEnqboZaa0kCC_18KSIHkGg&usqp=CAU) Curso em Vídeo - Python 3  
 
 ------
 
-##O curso de Python oferecido pelo Curso em Vídeo e pode ser feito pelo [site](https://www.cursoemvideo.com/cursos/) ou pelo [YouTube](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ).
+O curso de Python oferecido pelo Curso em Vídeo e pode ser feito pelo [site](https://www.cursoemvideo.com/cursos/) ou pelo [YouTube](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ).
 
 O curso é dividido em 3 "Mundos".
 
